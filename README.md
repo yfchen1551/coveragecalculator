@@ -107,4 +107,3 @@ python3 blast_coverage_heatmap.py -m start_rank end_rank output_rile blast_outpu
 ```
 将会得到 BLAST 结果中，指定区间内的 subject sequences 覆盖情况热图，一次最多显示 30 条序列。
 
-## 作者
